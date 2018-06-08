@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "com.unity.probuilder": "3.0.8"
+  },
+  "registry": "https://packages.unity.com",
+  "testables": [
+    "com.unity.collections",
+    "com.unity.entities",
+    "com.unity.jobs"
+  ]
+}
